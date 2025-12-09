@@ -1,7 +1,7 @@
 # PySIRTEM: An Efficient Modular Simulation Platform for the Analysis of Pandemic Scenarios
 
 <p align="center">
-  <img src="your_image.png" alt="PySIRTEM Diagram" width="500"/>
+  <img src="https://github.com/Preetom1905011/PySIRTEM/blob/main/code/PySIRTEM_overview1.png" alt="PySIRTEM Diagram" width="500"/>
 </p>
 
 ## Paper
